@@ -1,5 +1,5 @@
 {
-  "name": "hallshhub-frontend",
+  "name": "todo",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,18 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@emotion/react": "^11.11.1",
-    "@emotion/styled": "^11.11.0",
-    "@mui/icons-material": "^5.14.18",
-    "@mui/material": "^5.14.18",
-    "@mui/styled-engine-sc": "^6.0.0-alpha.6",
-    "@supabase/supabase-js": "^2.38.4",
     "next": "14.0.3",
     "react": "^18",
     "react-dom": "^18",
     "styled-components": "^6.1.1",
-    "supabase": "^1.112.0",
-    "tailwindcss-font-inter": "^3.0.1"
+    "tailwindcss-font-inter": "^3.0.1",
+    "three": "^0.159.0",
+    "vanta": "^0.5.24"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
