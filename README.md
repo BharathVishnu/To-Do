@@ -1,2 +1,1 @@
-# NextJS Tailwind CSS Starter 
-# Supabase Integrated
+# NextJS To-Do
