@@ -57,7 +57,7 @@ const TodoApp = () => {
           value={inputText}
           onChange={(e) => setInputText(e.target.value)}
           placeholder="Add a new todo"
-          className="w-full text-white px-3 py-2 border rounded-xl"
+          className="w-full text-black px-3 py-2 border rounded-xl"
         />
         <button
           type="submit"
